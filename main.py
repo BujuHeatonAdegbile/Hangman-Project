@@ -20,7 +20,7 @@ for _ in range(word_length):
 print(display)
 
 end_of_game = False
-
+#test
 while end_of_game == False:
 
     guess = input("Guess a letter: ").lower()
